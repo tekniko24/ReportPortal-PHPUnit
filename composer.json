@@ -1,0 +1,21 @@
+{
+    "name": "reportportal/phpunit",
+    "description": "A PHPUnit agent for Report Portal using the new events system",
+    "type": "library",
+    "require": {
+        "phpunit/phpunit": "^10",
+        "reportportal/basic": "1.0.x-dev"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Reportportal\\Phpunit\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Luis Cinco",
+            "email": "luis.cinco0419@gmail.com"
+        }
+    ]
+}

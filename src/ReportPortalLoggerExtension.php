@@ -3,7 +3,7 @@
  * Created by Luis Cinco.
  * PHP Unit ReportPortal Agent using Events System
  */
-namespace ReportPortal\PHPUnit;
+namespace ReportPortal\PHPUnitAgent;
 
 use PHPUnit\Runner;
 use PHPUnit\TextUI;

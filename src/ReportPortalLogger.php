@@ -3,7 +3,7 @@
  * Created by Luis Cinco.
  * PHP Unit ReportPortal Agent using Events System
  */
-namespace ReportPortal\PHPUnitAgent;
+namespace Tekniko\PHPUnitRPAgent;
 
 use ReportPortalBasic\Service\ReportPortalHTTPService;
 use GuzzleHttp\Psr7\Response as Response;

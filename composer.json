@@ -1,5 +1,5 @@
 {
-    "name": "reportportal/phpunitagent",
+    "name": "tekniko/phpunitrpagent",
     "description": "A PHPUnit agent for Report Portal using the new events system",
     "type": "library",
     "require": {
@@ -9,7 +9,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "ReportPortal\\PHPUnitAgent\\": "src/"
+            "TekNiko\\PHPUnitRPAgent\\": "src/"
         }
     },
     "authors": [

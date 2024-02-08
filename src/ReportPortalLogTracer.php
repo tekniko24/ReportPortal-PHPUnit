@@ -1,6 +1,6 @@
 <?php declare(strict_types=1);
 
-namespace ReportPortal\PHPUnitAgent;
+namespace TekNiko\PHPUnitRPAgent;
 
 use PHPUnit\Event\Event;
 use PHPUnit\Event\Tracer\Tracer;
